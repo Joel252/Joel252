@@ -1,16 +1,15 @@
-### Hi there 👋
+**HELLO WORLD**  >> I'm Joel Cruz
 
-<!--
-**Joel252/Joel252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Technical skills</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src = "https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-Html5-e34f26?logo=html5&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-Css3-1572b6?logo=css3&logoColor=fff"> 
+  <img src = "https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-Sass-cc6699?logo=Sass&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-TypeScript-3178c6?logo=TypeScript&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-Figma-f24e1e?logo=Figma&logoColor=fff">
+</p>
