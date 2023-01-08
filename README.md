@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/Joel252/Joel252/blob/main/banner.gif" width = "800px">
+  <img src = "https://github.com/Joel252/Joel252/blob/main/banner.gif" width = "700px">
   
   <h3 align="center">Technical skills</h3>
   
