@@ -1,18 +1,29 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qyTwrPzEaa7dK/giphy.gif"/>
+</div>
 
-<h3 align="center">Technical skills</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
-<p align="center">
-  <img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E">
-  <img src = "https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=fff">
-  <img src = "https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=fff">
-  <img src = "https://img.shields.io/badge/-TypeScript-3178c6?logo=TypeScript&logoColor=fff">
-  <img src = "https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-  <img src = "https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
-</p>
-
----
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Joel252&layout=compact&count_private=true&theme=tokyonight">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
