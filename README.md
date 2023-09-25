@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="650" src="banner.png"/>
+  <img width="850" height="340" src="banner.png"/>
 </div>
 
 <h3 align="center">🛠 Language and tools</h3>
