@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qyTwrPzEaa7dK/giphy.gif"/>
+  <img width="800" src="banner.png"/>
 </div>
 
 <h3 align="center">🛠 Language and tools</h3>
