@@ -1,7 +1,3 @@
-p {
-  color: red;
-}
-
 <div align="center">
   <img width="850" height="340" src="banner.png"/>
 </div>
