@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="850" height="320" src="banner.png"/>
-</div>
-
 <h3 align="center">🛠 Language and tools</h3>
 
 <p align="center">
