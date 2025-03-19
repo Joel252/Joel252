@@ -29,10 +29,3 @@ if __name__ == "__main__":
     yo = DevBienvenida()
     yo.boot()
 ```
-
-<h3 align="center">Language & tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,javascript,react,html,css,mysql,postgres,git,docker,terraform,aws,linux,gitlab,postman&perline=12"/>
-  </a>
-</p>
