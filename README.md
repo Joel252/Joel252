@@ -29,10 +29,10 @@ if __name__ == "__main__":
     yo = DevBienvenida()
     yo.boot()
 ```
-<div>
-    <img align="right" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel252&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=20"/>
-    <div align="left">
-        <h3 align="center">Language & tools</h3>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,javascript,react,html,css,mysql,postgres,git,docker,terraform,aws,linux,gitlab,postman&perline=8"/>
-    </div>
-</div>
+
+<h3 align="center">Language & tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,javascript,react,html,css,mysql,postgres,git,docker,terraform,aws,linux,gitlab,postman"/>
+  </a>
+</p>
