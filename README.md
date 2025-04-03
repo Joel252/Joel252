@@ -7,17 +7,11 @@ class DevBienvenida:
         self.nombre = "Joel Cruz"
         self.usuario = "Joel252"
         self.stack = [".NET", "Python", "React", "SQL", "AWS", "Terraform"]
-        self.location = "Chetumal, México 🇲🇽";
-        self.mensaje = [
-            "Codificando el futuro...",
-            "Compilando sueños en realidades...",
-            "Refactorizando la vida..."
-        ]
+        self.location = "Chetumal, México 🇲🇽"
 
     def __str__(self):
         return f"👋 ¡Hola! Soy {self.nombre} (@{self.usuario})\n" \
-               f"💻 Stack: {', '.join(self.stack)}\n" \
-               f"🎯 {random.choice(self.mensaje)}"
+               f"💻 Stack: {', '.join(self.stack)}"
 
     def boot(self):
         for _ in range(3):
